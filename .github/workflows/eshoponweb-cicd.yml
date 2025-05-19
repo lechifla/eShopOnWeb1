@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-luisilva
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: rg-eshoponweb-luisilva
+  SUBSCRIPTION-ID: cb561bac-8eae-4e86-979a-765c514af3ae
   WEBAPP-NAME: eshoponweb-webapp-luisilva
 
 
